@@ -53,7 +53,7 @@ namespace SQL_GET_POST_DATA
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(177)));
-            this.label2.Location = new System.Drawing.Point(405, 101);
+            this.label2.Location = new System.Drawing.Point(405, 103);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(124, 29);
@@ -93,7 +93,7 @@ namespace SQL_GET_POST_DATA
             // loginBtn
             // 
             this.loginBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(177)));
-            this.loginBtn.Location = new System.Drawing.Point(421, 304);
+            this.loginBtn.Location = new System.Drawing.Point(415, 303);
             this.loginBtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.loginBtn.Name = "loginBtn";
             this.loginBtn.Size = new System.Drawing.Size(107, 41);
